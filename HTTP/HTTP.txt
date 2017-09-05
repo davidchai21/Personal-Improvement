@@ -1,0 +1,3 @@
+http://www.cnblogs.com/ranyonsue/p/5984001.html
+<图解HTTP>: A book in which graphs was used to explain the protocol. Written by a Japanese author.
+<HTTP: The Definitive Guide> By David G. & Brian T. (* The most detailed guidebook)
