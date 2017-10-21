@@ -1,0 +1,5 @@
+c++ primer
+c++ concurrency in action
+effective c++
+more effective c++
+effective modern c++
